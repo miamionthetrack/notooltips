@@ -1,0 +1,21 @@
+{
+  "schemaVersion": 1,
+  "id": "tooltiphider",
+  "version": "1.0.0",
+  "name": "Tooltip Hider",
+  "description": "Hides the held item tooltip above the hotbar. [Ported to 1.21 by Miami]",
+  "authors": [
+    "Miami",
+    "JanCantCode [Original Author]"
+  ],
+  "license": "MIT",
+  "environment": "client",
+  "mixins": [
+    "tooltiphider.mixins.json"
+  ],
+  "depends": {
+    "fabricloader": ">=0.15.0",
+    "fabric": "*",
+    "minecraft": "~1.21"
+  }
+}
