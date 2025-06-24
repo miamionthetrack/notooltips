@@ -8,8 +8,9 @@
 		"Miami"
 	],
 	"contact": {
-		"homepage": "https://fabricmc.net/",
-		"sources": "https://github.com/miamionthetrack/notooltips"
+		"homepage": "https://modrinth.com/mod/no-tool-tips",
+		"sources": "https://github.com/miamionthetrack/notooltips",
+		"issues": "https://github.com/miamionthetrack/notooltips/issues"
 	},
 	"license": "CC0-1.0",
 	"icon": "assets/notooltips/icon.png",
